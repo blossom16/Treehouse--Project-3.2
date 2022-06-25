@@ -1,4 +1,9 @@
-//Interactive Form Project               
+//Interactive Form Project      
+
+
+
+
+
 
 //Focuses on the name field when the form is first loaded
 const nameBtn = document.getElementById("name");
